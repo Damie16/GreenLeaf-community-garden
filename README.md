@@ -91,6 +91,10 @@ Part 1: Building foundation
 
 <img width="1920" height="1080" alt="Sitemap (1)" src="https://github.com/user-attachments/assets/257d0596-a8f8-4308-b757-ca7eede1355f" />
 
+<img width="2000" height="1200" alt="GreenLeaf_Gantt_Chart" src="https://github.com/user-attachments/assets/3a32ef3a-2270-43a7-8ce2-73ce130ca667" />
+
+
+
 
 1.	American Community Gardening Association (2025) Community Garden Resources, Available at: https://www.communitygarden.org/ (Accessed: 5 August 2025).
 2.	MayeCreate Design (2022) '5 Electrical Contractor Website Must Haves', MayeCreate Design Blog, 20 April. Available at: https://mayecreate.com/blog/5-electrical-contractor-website-must-haves/ (Accessed: 5 August 2025).
