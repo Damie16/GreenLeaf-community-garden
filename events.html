@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Garden - Events & Workshops</title>
+</head>
+<body>
+    <header>
+        <h1>Community Garden</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="garden_plot.html">Garden Plot</a></li>
+                <li><a href="events.html">Events & Workshops</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Events & Workshops</h1>
+
+        <section class="calendar">
+            <h2>Calendar</h2>
+            <div class="event-calendar">
+                <!-- Calendar content -->
+            </div>
+        </section>
+
+        <section class="volunteer-days">
+            <h2>Volunteer Days</h2>
+            <ul>
+                <li>Volunteer day information</li>
+            </ul>
+        </section>
+
+        <section class="events">
+            <h2>Events</h2>
+            <article class="event">
+                <h3>Event Title</h3>
+                <p>Event description</p>
+                <time datetime="2024-01-01">Event date</time>
+            </article>
+        </section>
+
+        <section class="registration">
+            <h2>Registration</h2>
+            <form>
+                <label for="event-select">Select Event:</label>
+                <select id="event-select" name="event">
+                    <option value="">Choose an event</option>
+                </select>
+
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <button type="submit">Register</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; community garden</p>
+    </footer>
+</body>
+</html>

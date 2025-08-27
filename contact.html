@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Garden - Contact</title>
+</head>
+<body>
+    <header>
+        <h1>Community Garden</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="garden_plot.html">Garden Plot</a></li>
+                <li><a href="events.html">Events & Workshops</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Contact Us</h1>
+
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <address>
+                <p>Garden Coordinator: <span>Name</span></p>
+                <p>Phone: <a href="tel:+1234567890">Phone number</a></p>
+                <p>Email: <a href="mailto:info@example.com">Email address</a></p>
+                <p>Address: Physical address</p>
+            </address>
+        </section>
+
+        <section class="contact-form">
+            <h2>Contact Form</h2>
+            <form>
+                <label for="contact-name">Name:</label>
+                <input type="text" id="contact-name" name="name" required>
+
+                <label for="contact-email">Email:</label>
+                <input type="email" id="contact-email" name="email" required>
+
+                <label for="subject">Subject:</label>
+                <select id="subject" name="subject">
+                    <option value="">Select a subject</option>
+                    <option value="general">General Inquiry</option>
+                    <option value="plot">Plot Information</option>
+                </select>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+
+        <section class="directions">
+            <h2>Directions</h2>
+            <p>Direction information</p>
+        </section>
+
+        <section class="emergency-contacts">
+            <h2>Emergency Contacts</h2>
+            <ul>
+                <li>Emergency contact information</li>
+            </ul>
+        </section>
+
+        <section class="volunteer-form">
+            <h2>Volunteer Inquiry Form</h2>
+            <form>
+                <label for="volunteer-name">Name:</label>
+                <input type="text" id="volunteer-name" name="name" required>
+
+                <label for="volunteer-email">Email:</label>
+                <input type="email" id="volunteer-email" name="email" required>
+
+                <label for="interests">Areas of Interest:</label>
+                <textarea id="interests" name="interests" rows="3"></textarea>
+
+                <label for="availability">Availability:</label>
+                <textarea id="availability" name="availability" rows="3"></textarea>
+
+                <button type="submit">Submit Application</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;  Community Garden</p>
+    </footer>
+</body>
+</html>
