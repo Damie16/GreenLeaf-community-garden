@@ -89,10 +89,11 @@ Part 1: Building foundation
 
 •Organise your files: establish a well organised file and folder structure to manage your project efficiently. 
 
-<img width="1920" height="1080" alt="Sitemap (1)" src="https://github.com/user-attachments/assets/257d0596-a8f8-4308-b757-ca7eede1355f" />
+
 
 <img width="2000" height="1200" alt="GreenLeaf_Gantt_Chart" src="https://github.com/user-attachments/assets/3a32ef3a-2270-43a7-8ce2-73ce130ca667" />
 
+<img width="1344" height="768" alt="Sitemap improved" src="https://github.com/user-attachments/assets/ff5cacb2-85e0-4664-b937-10a78eae7ff5" />
 
 
 
