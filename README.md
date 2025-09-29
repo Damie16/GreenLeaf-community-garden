@@ -145,6 +145,19 @@ Styles.css file:
 6. Modern CSS techniques (Grid, Flexbox)
 7. Cross-browser compatibility
 
+Website screenshots:
+<img width="1885" height="875" alt="Screenshot 2025-09-29 204151" src="https://github.com/user-attachments/assets/0b02c040-c2e2-45f2-b3be-9eab3d2d0de6" />
+<img width="1887" height="842" alt="2" src="https://github.com/user-attachments/assets/8fb1f248-00c2-45cb-a46c-8828af85fdc8" />
+<img width="1897" height="886" alt="3" src="https://github.com/user-attachments/assets/95087241-8cd8-4927-a9d5-37be10da122a" />
+<img width="1900" height="891" alt="4" src="https://github.com/user-attachments/assets/67138b8f-cfc3-4f10-999a-1488952822ef" />
+<img width="1898" height="837" alt="5" src="https://github.com/user-attachments/assets/b32dd6de-596d-4085-86dd-64e5ddfb5d72" />
+<img width="1907" height="865" alt="6" src="https://github.com/user-attachments/assets/1ff6835c-59f6-45d0-b12a-0da2233ce168" />
+<img width="1912" height="857" alt="7" src="https://github.com/user-attachments/assets/0df5e5df-da8c-45db-9e89-cd6fe33df8ed" />
+<img width="1912" height="910" alt="8" src="https://github.com/user-attachments/assets/6aa50273-3a29-4cf2-baaa-63b3308e2186" />
+<img width="1896" height="898" alt="9" src="https://github.com/user-attachments/assets/0519a2ff-02b5-4661-bb54-ea87453e5928" />
+<img width="1907" height="910" alt="10" src="https://github.com/user-attachments/assets/e54171c3-dd93-4494-aa62-a6b6d0c26c4c" />
+<img width="1905" height="885" alt="11" src="https://github.com/user-attachments/assets/30de137e-d913-4f0e-832c-273e166fe51f" />
+
 
 
 
