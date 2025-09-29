@@ -93,7 +93,8 @@ Part 1: Building foundation
 
 <img width="2000" height="1200" alt="GreenLeaf_Gantt_Chart" src="https://github.com/user-attachments/assets/3a32ef3a-2270-43a7-8ce2-73ce130ca667" />
 
-<img width="1344" height="768" alt="Sitemap improved" src="https://github.com/user-attachments/assets/ff5cacb2-85e0-4664-b937-10a78eae7ff5" />
+<img width="1536" height="1024" alt="Greenleaf sitemap" src="https://github.com/user-attachments/assets/d37ed6c6-24c6-4e1a-bd9b-edc559767bee" />
+
 
 
 
