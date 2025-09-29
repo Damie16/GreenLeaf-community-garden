@@ -97,6 +97,57 @@ Part 1: Building foundation
 
 
 
+Change Log section
+Homepage: 
+1. Integrated external CSS and Google Fonts
+2. Added responsive images with multiple resolutions
+3. Implemented accessibility features
+4. Created visual hierarchy with sections
+5. Added interactive call-to-action buttons
+
+Contact page:
+1. Improved form usability with better field organization
+2. Added visual styling through inline styles and CSS classes
+3. Implemented proper email links (mailto:)
+4. Enhanced accessibility with labels and descriptions
+5. Added comprehensive contact options
+
+Events & workshops page:
+1. Created visual calendar interface
+2. Added 4 detailed event descriptions
+3. Enhanced registration system
+4. Implemented event policies
+5. Added visual hierarchy and styling
+
+Resources page:
+1. Created 4 detailed plant care guides
+2. Added seasonal gardening calendar
+3. Implemented categorized external resources
+4. Added blog articles section
+5. Enhanced search functionality
+6. Integrated responsive images
+
+Garden plot page:
+1. Created detailed plot comparison system
+2. Built complete pricing structure
+3. Implemented full application system
+4. Added extensive maintenance guidelines
+5. Created FAQ section
+6. Enhanced visual layout with cards and grids
+
+Styles.css file:
+1. Complete responsive design system
+2. Professional color palette implementation
+3. Typography hierarchy
+4. Interactive states for all elements
+5. Accessibility-first approach
+6. Modern CSS techniques (Grid, Flexbox)
+7. Cross-browser compatibility
+
+
+
+
+
 1.	American Community Gardening Association (2025) Community Garden Resources, Available at: https://www.communitygarden.org/ (Accessed: 5 August 2025).
 2.	MayeCreate Design (2022) '5 Electrical Contractor Website Must Haves', MayeCreate Design Blog, 20 April. Available at: https://mayecreate.com/blog/5-electrical-contractor-website-must-haves/ (Accessed: 5 August 2025).
 3.	National Recreation and Park Association (2024) Building a Community Garden in Your Park, Available at: https://www.nrpa.org/uploadedFiles/nrpa.org/Grants_and_Partners/Environmental_Conservation/Community-Garden-Handbook.pdf (Accessed: 5 August 2025).
