@@ -158,6 +158,59 @@ Website screenshots:
 <img width="1907" height="910" alt="10" src="https://github.com/user-attachments/assets/e54171c3-dd93-4494-aa62-a6b6d0c26c4c" />
 <img width="1905" height="885" alt="11" src="https://github.com/user-attachments/assets/30de137e-d913-4f0e-832c-273e166fe51f" />
 
+Part 3
+Files Added:
+Main.js - javascript functionality
+robots.txt - Search engine crawler instructions
+Sitemap.xml - site structure for search engine
+
+Javascript enhancements:
+- Comprehensive form validation for all forms
+- Real-time input validation with visual feedback
+- Success and error message system
+- Image lightbox gallery with navigation
+- Search functionality with filtering
+- Smooth scrolling
+- Newsletter handling
+
+SEO:
+- Meta tags (title, description, keywords) for all pages
+- Open Graph tags for social media sharing
+- Twitter Card tags
+- Structured data (JSON-LD) for LocalBusiness and Events
+- robots.txt file created
+- sitemap.xml file created
+- Internal linking strategy
+
+Performance optimisation: 
+- Responsive images with srcset
+- sizes attribute for responsive loading
+- Preconnect for Google Fonts
+- Crossorigin attribute for performance
+- pattern attributes for input validation
+
+HTML page enhancements: 
+- Complete SEO meta tags added
+- Open Graph and Twitter Cards
+- JSON-LD structured data for LocalBusiness
+- Form validation integrated
+- Enhanced accessibility
+- JavaScript integration
+
+Testing done:
+- Empty field submissions blocked
+- Invalid email formats rejected
+- Phone number format validation working
+- Minimum character length enforced
+- Required checkboxes validated
+- Success messages display correctly
+- Error messages show all issues
+- Form resets after successful submission
+- Previous/Next navigation works
+- Search functionality returns results
+- Category filtering works
+- Smooth scrolling functions
+  
 
 
 
